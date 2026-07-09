@@ -32,9 +32,11 @@ I care about correctness in the unglamorous parts of an LLM stack — request va
 **[vLLM](https://github.com/vllm-project/vllm)** &nbsp;·&nbsp; high-throughput LLM inference engine (83k★)
 
 <a href="https://github.com/vllm-project/vllm/pull/46038"><img src="https://img.shields.io/badge/PR%20%2346038-merged-8250df?logo=github&logoColor=white" alt="PR 46038"></a>
+<a href="https://github.com/vllm-project/vllm/pull/46415"><img src="https://img.shields.io/badge/PR%20%2346415-merged-8250df?logo=github&logoColor=white" alt="PR 46415"></a>
 <a href="https://github.com/vllm-project/vllm/pull/46457"><img src="https://img.shields.io/badge/PR%20%2346457-merged-8250df?logo=github&logoColor=white" alt="PR 46457"></a>
 <a href="https://github.com/vllm-project/vllm/pull/46612"><img src="https://img.shields.io/badge/PR%20%2346612-merged-8250df?logo=github&logoColor=white" alt="PR 46612"></a>
 <a href="https://github.com/vllm-project/vllm/pull/47028"><img src="https://img.shields.io/badge/PR%20%2347028-merged-8250df?logo=github&logoColor=white" alt="PR 47028"></a>
+
     
 ### 🧰 What I work with
 
