@@ -1,6 +1,6 @@
 <!--
-  PROFILE README — place this file at github.com/professorsab/professorsab/README.md
-  (create a repo named EXACTLY "professorsab" — same as your username — and GitHub
+  PROFILE README — place this file at github.com/muhammadfawaz1/muhammadfawaz1/README.md
+  (create a repo named EXACTLY "muhammadfawaz1" — same as your username — and GitHub
   will render this on your profile page.)
 
   Lines marked  <-- CONFIRM  are claims you should verify match reality before publishing.
@@ -23,13 +23,13 @@
 
 ---
 
-I build production LLM and multi-agent systems, and I work close to the metal on inference internals. Recently a CS graduate; day-to-day I'm a Research Engineer at Xflow Research working on agentic automation, retrieval, and model-serving infrastructure. <!-- CONFIRM: title, "recently a graduate" -->
+I build production LLM and multi-agent systems and work close to the metal on inference internals. Recently graduated in CS, now working as a Research Engineer at Xflow Research on agentic automation, retrieval, and model-serving infrastructure. <!-- CONFIRM: title, "recently a graduate" -->
 
-I care about correctness in the unglamorous parts of an LLM stack — request validation, error semantics, agent orchestration edge cases — which is how I ended up contributing to **[vLLM](https://github.com/vllm-project/vllm)**.
+I like fixing the unglamorous parts of an LLM stack: request validation, error semantics, agent orchestration edge cases. That's basically how I ended up contributing to **[vLLM](https://github.com/vllm-project/vllm)**.
 
 ### 🔧 Open source
 
-**[vLLM](https://github.com/vllm-project/vllm)** &nbsp;·&nbsp; high-throughput LLM inference engine (83k★)
+**[vLLM](https://github.com/vllm-project/vllm)** &nbsp;·&nbsp; high-throughput LLM inference engine (83k stars)
 
 <a href="https://github.com/vllm-project/vllm/pull/46038"><img src="https://img.shields.io/badge/PR%20%2346038-merged-8250df?logo=github&logoColor=white" alt="PR 46038"></a>
 <a href="https://github.com/vllm-project/vllm/pull/46415"><img src="https://img.shields.io/badge/PR%20%2346415-merged-8250df?logo=github&logoColor=white" alt="PR 46415"></a>
@@ -65,8 +65,7 @@ See pinned repositories below — each ships with a real README, setup steps, an
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/professorsab/professorsab/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/professorsab/professorsab/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/professorsab/professorsab/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadfawaz1/muhammadfawaz1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadfawaz1/muhammadfawaz1/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/muhammadfawaz1/muhammadfawaz1/output/github-snake.svg" />
 </picture>
-
