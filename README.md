@@ -60,7 +60,7 @@ See pinned repositories below — each ships with a real README, setup steps, an
 </details>
 
 <!--
-  Optional: the contribution-snake animation. Add the workflow (snake.yml) first,
+  Optiona: the contribution-snake animation. Add the workflow (snake.yml) first,
   let it run once, then uncomment. Keep ONE visual flourish, not five.
 -->
 
